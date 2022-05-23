@@ -23,9 +23,6 @@ const devConfig = {
             //Para crear una variable global
             
         }),
-        new HtmlWebpackPlugin({
-            template: './public/index.html'
-        })
     ]
 }
 
